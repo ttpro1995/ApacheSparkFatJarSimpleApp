@@ -6,3 +6,5 @@ target/scala-2.12/
 target/global-logging/
 
 project/target/
+
+project/project/
