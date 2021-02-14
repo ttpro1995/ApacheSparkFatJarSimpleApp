@@ -1,5 +1,5 @@
-Simple App 
+FatJar Simple App 
 
-Một chương trình Apache Spark siêu đơn giản 
+Tạo fat jar với plugin assembly 
 
-[Xem bài viết ](https://blog.thaithien.me/index.php/2021/02/10/mot-chuong-trinh-apache-spark-sieu-don-gian/)
+[Xem bài viết: Tạo Fat Jar cho chương trình Apache Spark](https://blog.thaithien.me/index.php/2021/02/14/tao-fat-jar-cho-chuong-trinh-apache-spark/)
